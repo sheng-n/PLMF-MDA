@@ -1,5 +1,5 @@
 # PLMF-MDA
- Submitted to journal Information Processing and Management
+ Submitted to journal Advanced Science
 ## 1. Overview
 The code for paper "A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations". The repository is organized as follows:
 
@@ -33,4 +33,4 @@ Here we provide a example:
 The dataset was partitioned into training and testing sets with an 8:2 ratio.
 
 ## 5. Contacts
-If you have any questions, please email xx
+If you have any questions, please email Nan Sheng (shengnan@jlu.edu.cn)
