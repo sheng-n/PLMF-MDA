@@ -18,10 +18,10 @@ The code for paper "A pre-trained language model-based cross-modal fusion framew
   * `DeepChem` contains ChemBERTa files;
   
 ## 2. Dependencies
-* numpy == 1.24.4
 * torch == 2.1.2+cu118
-* sklearn == 1.3.0
 * torch-geometric == 2.4.0
+* numpy == 1.24.4
+* RDKit v2023.9.6
 
 ## 3. Quick Start
 Here we provide a example:
