@@ -1,5 +1,5 @@
 # PLMF-MDA
- Submitted to journal PLOS Computational Biology
+ PLOS Computational Biology Accept
 ## 1. Overview
 The code for paper "A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations". The repository is organized as follows:
 
