@@ -1,5 +1,7 @@
 # PLMF-MDA
- PLOS Computational Biology Accept
+## Paper [**[Paper link]**]([https://doi.org/10.1371/journal.pcbi.1013703](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013968) "Click") 
+## Cite
+Sheng N, Liu Y, Gao L, et al. A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations[J]. PLOS Computational Biology, 2026, 22(2): e1013968.
 ## 1. Overview
 The code for paper "A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations". The repository is organized as follows:
 
